@@ -19,3 +19,5 @@ For a team already spending seriously on Meta, the proposition is coherent: agen
 ---
 
 *This is an independent review page with no affiliation to Atria or its parent company, and all trademarks mentioned belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
